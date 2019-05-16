@@ -40,4 +40,15 @@ $ node app
 
 A aplicação esta configurada para executar na porta '3000'. Para acessar a aplicação basta entrar no endereço "https://localhost:3000". Para alterar o número de porta editar o arquivo 'app.js'.
 
-## 
+## Desenvolvimento 
+
+O projeto foi desenvolvido com:
+
+* [Node.js](https://nodejs.org) - Plataforma de desenvolvimento Javascript
+* [Sublime Text](https://www.sublimetext.com) - Editor de texto para programação.
+
+## Autores 
+
+* **João Victor Sena Maciel** - [JoaoMaciel17](https://github.com/JoaoMaciel17/)
+
+* Agradecimentos ao Professor **Carlos Andres Ferrero** - [anfer86](https://github.com/anfer86/)
